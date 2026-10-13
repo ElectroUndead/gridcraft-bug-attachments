@@ -1,0 +1,4 @@
+2026-10-13T13:05:38.673Z INFO  [main] gridcraft: GridCraft 0.6.1, log file C:\Users\ElectroUndead\AppData\Roaming\GridCraft\logs\gridcraft.log
+2026-10-13T13:05:38.841Z INFO  [main] gridcraft::graphics: graphics: DirectX 12 adapter "NVIDIA GeForce RTX 4070 SUPER" (DiscreteGpu, driver "32.0.16.1714"), limits ok: true
+2026-10-13T13:05:38.841Z INFO  [main] gridcraft::graphics: graphics: DirectX 12 adapter "Microsoft Basic Render Driver" (Cpu, driver "10.0.26100.9278"), limits ok: true
+2026-10-13T13:05:38.855Z INFO  [main] gridcraft::graphics: graphics: 2 DirectX 12 adapter(s) [Dx12Adapter { device_type: DiscreteGpu, meets_limits: true }, Dx12Adapter { device_type: Cpu, meets_limits: true }], backends Backends(DX12)
