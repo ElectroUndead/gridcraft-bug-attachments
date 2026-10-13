@@ -1,0 +1,1 @@
+{"command":"data.sortAscending","result":{"sorted":"A2:C8"}}
